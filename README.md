@@ -6,7 +6,7 @@ What are we providing?
 - Gerber Files
 - Schematics
 - Firmware
-- KiCad Design Files
+- EasyEDA Design Files
 
 ## Licence
 
